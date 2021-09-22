@@ -1,4 +1,4 @@
-module my-xjar
+module xjarx
 
 go 1.16
 
